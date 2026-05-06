@@ -1,8 +1,8 @@
 class Ai < Formula
   desc "AI shell assistant — turn natural language into shell commands"
   homepage "https://github.com/hra42/ai"
-  url "https://github.com/hra42/ai/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "0e129377388d0225c827b763737a74232989f45e854e8bc9c1e2c338946c68e3"
+  url "https://github.com/hra42/ai/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "5582f7638f631c1ba0eeb495b5f195532e177a69dcd3014f5738f853c1c6b787"
   license "Unlicense"
   head "https://github.com/hra42/ai.git", branch: "main"
 
